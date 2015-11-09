@@ -1,8 +1,0 @@
-git commit -a -m "vai direto"
-git diff "visualiza as alterações'
-git log "visualizar alterações"
-q voltar para o terminal
-git commit --amend -m "novas funcionalidades(ediçao)"
-git reset HEAD novo.php // tira da area de espera e volta 
-git rm novo.php para remover
-leandro vaz

@@ -1,0 +1,1 @@
+Este repositório foi criado para versionar os trabalhos desenvolvidos na Disciplina de Gerência de Projetos.
